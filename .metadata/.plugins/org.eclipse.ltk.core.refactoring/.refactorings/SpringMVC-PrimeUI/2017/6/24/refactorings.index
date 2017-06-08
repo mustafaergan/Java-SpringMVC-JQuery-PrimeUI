@@ -1,0 +1,8 @@
+1496948101452	Delete element
+1496948330236	Move 'resources' to 'WebContent'
+1496948340447	Move 'lib' to 'resources'
+1496949257599	Copy file
+1496949446872	Rename resource 'hello.jsp'
+1496949826350	Rename type 'MyViewConfig'
+1496949833002	Rename type 'MyWebConfig'
+1496949839813	Rename type 'MyWebInitializer'

@@ -1,0 +1,5 @@
+package com.mustafaergan.conf;
+
+public class MyWebConfig {
+
+}

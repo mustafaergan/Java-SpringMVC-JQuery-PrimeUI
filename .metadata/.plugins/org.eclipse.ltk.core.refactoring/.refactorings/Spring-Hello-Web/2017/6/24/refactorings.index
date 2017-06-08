@@ -1,0 +1,13 @@
+1496946560734	Delete elements
+1496947378101	Rename type 'ScopeService'
+1496947422506	Rename type 'HelloController'
+1496947438596	Rename type 'SingletonController'
+1496947462259	Rename field 'scopeService'
+1496947483211	Rename field 'scopeService'
+1496947831859	Copy package
+1496947942912	Copy file
+1496948089643	Copy package
+1496948290291	Rename resource 'res'
+1496949876760	Rename type 'MyViewConfig'
+1496949889173	Rename type 'MyWebConfig'
+1496949896382	Rename type 'MyWebInitializer'
