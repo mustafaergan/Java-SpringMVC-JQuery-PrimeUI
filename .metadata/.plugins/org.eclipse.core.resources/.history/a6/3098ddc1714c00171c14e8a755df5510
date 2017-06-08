@@ -1,0 +1,5 @@
+package com.mustafaergan.service;
+
+public class HelloService {
+
+}
